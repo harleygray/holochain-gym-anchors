@@ -1,0 +1,1 @@
+/home/harle/developer-exercises/2.intermediate/0.anchors/exercise/target/wasm32-unknown-unknown/release/libexercise.rlib: /home/harle/developer-exercises/2.intermediate/0.anchors/exercise/zomes/exercise/src/lib.rs

@@ -1,0 +1,11 @@
+\\wsl$\Ubuntu\home\harle\developer-exercises\2.intermediate\0.anchors\exercise\target\debug\deps\thiserror_impl-79b801bb0b7da90c.dll: C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\lib.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\ast.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\attr.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\expand.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\fmt.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\prop.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\valid.rs
+
+\\wsl$\Ubuntu\home\harle\developer-exercises\2.intermediate\0.anchors\exercise\target\debug\deps\thiserror_impl-79b801bb0b7da90c.d: C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\lib.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\ast.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\attr.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\expand.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\fmt.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\prop.rs C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\valid.rs
+
+C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\lib.rs:
+C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\ast.rs:
+C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\attr.rs:
+C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\expand.rs:
+C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\fmt.rs:
+C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\prop.rs:
+C:\Users\harle\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\valid.rs:
